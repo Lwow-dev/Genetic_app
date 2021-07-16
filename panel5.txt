@@ -1,0 +1,157 @@
+﻿Liver Detox - Phase I	rs1799814	rs2855262
+Liver Detox - Phase II	rs2155219	rs1544410
+Yeast/Alcohol Metabolism	rs16941667	rs72547564
+Methylation & Methionine/Homocysteine Pathways	rs1799807	rs9606756
+Transsulfuration Pathway	rs2851391	rs705703	
+Neurotransmitter Pathway: Serotonin & Dopamine	rs10994336	rs876493
+COMT Activity	rs1056836	rs1056836
+Mitochondrial Function	rs4880	rs4850
+Pentose Phosphate Pathway	rs9349379	rs766420
+Cannabinoid Pathway	rs35070995	rs731236
+Alzheimers/Cardio/Lipid	rs3764650	rs157580
+IgE	rs2814778	rs2040704
+IgG	rs1801274	rs1801274
+IgA	rs6677604	rs3761847
+Celiac Disease/Gluten Intolerance	rs6441961	rs9851967
+Eye Health	rs7501331	rs12934922
+Other Immune Factors	rs10210302	rs1800629
+Glyoxylate Metabolic Process	rs7079	rs2297644
+Thiamin/Thiamine Degradation	rs975508	rs1051266
+HLA	rs2858331	rs3893538
+Iron Uptake & Transport	rs2231164	rs1799899
+2-Phenoxyethanol (Excipient Report)	rs6214	rs861539
+A-Tocopheryl Hydrogen Succinate (Excipient Report)	rs380417	rs1799801
+Acetone (Excipient Report)	rs140174	rs140174
+Aluminum (Excipient Report)	rs2243250	rs557564
+Aluminum Hydroxyphosphate Sulfate (Excipient Report)	rs1800278	rs1800278
+Amino Acids (Excipient Report)	rs962369	rs3025039
+Amphotericin B (Excipient Report)	rs7124442	rs2066713
+Anhydrous Lactose (Excipient Report)	rs12342831	rs2322659
+Ascorbic Acid (Excipient Report)	rs2071302	rs9366637
+B-Propiolactone (Excipient Report)	rs543703	rs543703
+Baculovirus (Excipient Report)	rs2228014	rs3780374
+Benzethonium Chloride (Excipient Report)	rs6494223	rs237875
+Beta-Propiolactone (Excipient Report)	rs543703	rs543703
+Calcium Chloride (Excipient Report)	rs1866389	rs443095
+Castor Oil (Excipient Report)	rs8065080	rs224534
+D-Fructose (Excipient Report)	rs1800546	rs7725
+D-Mannose (Excipient Report)	rs1800450	rs1800450
+Dextrose (Excipient Report)	rs2494732	rs734312
+Dipotassium Phosphate (Excipient Report)	rs1058184	rs1051922
+Dulbecco's Modified Eagle Medium (Excipient Report)	rs17228616	rs7242
+FD&C Yellow #6 Aluminum Lake Dye (Excipient Report)	rs2052550	rs1041988
+Formaldehyde (Excipient Report)	rs18008962	rs2069762
+Gelatin (Excipient Report)	rs962369	rs1048201
+Gentamicin Sulfate (Excipient Report)	rs4950928	rs10876550
+Glyphosate (Excipient Report)	rs3889728	rs2303436
+Hydrocortisone (Excipient Report)	rs1883832	rs1490453
+L-Tyrosine (Excipient Report)	rs28940881	rs1393350
+Lactose (Excipient Report)	rs72555360	rs72555366
+Magnesium Stearate (Excipient Report)	rs1327474	rs11868035
+Magnesium Sulfate (Excipient Report)	rs1051375	rs929351
+Mercury (Thiomersal/Thimerosal) (Excipient Report)	rs1885301	rs28493229
+Non-Viral Proteins (Excipient Report)	rs10836235	rs10836235
+Nonylphenol Ethoxylate (Excipient Report)	rs2470890	rs2881766
+Octylphenol Ethoxylate (Triton X-100) (Excipient Report)	rs1049970	rs1126642
+Phenol Red (Excipient Report	rs17222723	rs34377097
+Phenol USP (Excipient Report)	rs5030849	rs1718312
+Plasdone C (Excipient Report)	rs2304573	rs1341239 
+Polysorbate 20 (Excipient Report)	rs2293347	rs5275
+Polysorbate 80 (Excipient Report)	rs1129055	rs2020921
+Protamine Sulphate (Excipient Report)	rs2067474	rs2067474
+Purified Capsular Polysaccharide (Excipient Report)	rs2304204	rs2304204
+Sodium Deoxycholate (Excipient Report)	rs3729931	rs6951030
+Sodium Taurodeoxycholate (Excipient Report)	rs2856111	rs2856111
+Sorbitol (Excipient Report)	rs1799884	rs1799884
+Urea (Excipient Report)	rs4444903	rs2237051
+Yeast Protein (Excipient Report)	rs2657879	rs2657879
+Genetic risk factors for atopic dermatitis	rs7130588	rs1295686
+Genetic risk factors for bronchial asthma	rs2155219	rs1837253
+Genetic risk factors for obesity Options that increase the risk	rs10938397	rs10968576
+Genetic risk factors for obesity Options that lower the risk	rs2531995	rs4735692
+Genetic risk factors for Paget's bone disease Options that increase the risk	rs1561570	rs3018362
+Genetic risk factors for Paget's bone disease Options that lower the risk	rs10498635	rs5742915
+Genetic risk factors for atrial fibrillation Options that increase the risk	rs3807989	rs10821415
+Genetic risk factors for atrial fibrillation Options that reduce risk	rs7164883	rs2040862
+Genetic risk factors for hypertension Options that increase the risk	rs633185	rs419076
+Genetic risk factors for hypertension Options that reduce the risk	rs1173771	rs805303
+Genetic risk factors for coronary heart disease Options that increase the risk	rs964184	rs12413409
+Genetic risk factors for coronary heart disease Options that lower the risk	rs11556924	rs7808424
+Genetic risk factors for hypothyroidism Options that increase the risk	rs4915077	rs925489
+Genetic risk factors for hypothyroidism Options that reduce the risk	rs6679677	rs3184504
+Genetic risk factors for type 2 diabetes Options that increase the risk	rs7903146	rs7202877
+Genetic risk factors for type 2 diabetes Options that lower the risk	rs10811661	rs2191349
+Genetic risk factors for type 2 diabetes Options that lower the risk	rs864745	rs516246
+Genetic risk factors for Crohn's disease Options that lower the risk	rs3764147	rs9286879
+Genetic risk factors for osteoporosis Options that increase the risk	rs6959212	rs430727
+Genetic risk factors for osteoporosis Options that reduce the risk	rs4727338	rs6532023
+Genetic risk factors for age-related macular degeneration Options that increase the risk	rs429608	rs2230199
+Genetic risk factors for age-related macular degeneration Options that lower the risk	rs10490924	rs8017304
+Genetic risk factors for gout Options that increase the risk	rs12498742	rs653178
+Genetic risk factors for gout Options that lower the risk	rs1171614	rs478607
+Genetic risk factors for Alzheimer's disease Options that increase the risk	rs11771145	rs11218343
+Genetic Risk Factors for Alzheimer's Disease Options That Reduce Risk	rs1476679	rs3865444
+Genetic risk factors for ulcerative colitis Options that increase the risk	rs11739663	rs254560
+Genetic risk factors for ulcerative colitis Options that reduce the risk	rs6017342	rs9847710
+Triglycerides	rs11613352	rs12678919
+Monounsaturated fat	rs1801282	rs1801282
+Iron	rs7385804	rs4820268
+Cravings for sweets	rs5400	rs5400
+Feeling full	rs9939609	rs9939609
+Sensation of sweet taste	rs307355	rs307355
+Feeling bitter	rs2708377	rs1031391
+Food motivation	rs1800497	rs1800497
+The strength of the heart during endurance training	rs4994	rs4994
+Providing muscles with energy during strength loads	rs659366	rs659366
+Adaptation to power loads	rs11549465	rs11549465
+Recovery after power loads	rs13266634	rs4880
+Erythropoietin	rs7776054	rs7776054
+Insulin sensitivity	rs1800588	rs1800588
+Depletion of energy reserves in muscles during sports	rs17602729	rs17602729
+Earwax type	rs17822931	rs17822931
+The structure of the iris: the presence of crypts	rs1533995	rs1533995
+Iris structure: contraction grooves	rs3739070	rs3739070
+Iris structure: pigmentation around the pupil	rs12896399	rs12896399
+Asparagus and unusual urine odor	rs4481887	rs4481887
+Teeth development	rs4491709	rs2281845
+Body odour	rs17822931	rs17822931
+Gray hair	rs12203592	rs12203592
+Episodic memory	rs17070145	rs17070145
+Breastfeeding and IQ	rs174575	rs1535
+Reading	rs17819126	rs17819126
+Long-term memory	rs1799990	rs1799990
+Sweat smell	rs1953558	rs1953558
+Sneezing in the light	rs10427255	rs10427255
+Pain sensitivity	rs6269	rs6269
+Tendency to empathy	rs53576	rs53576
+Gluten	rs2187668	rs917997
+Lactose intolerance	rs182549	rs4988235
+Alcohol intolerance	rs1229984	rs1229984
+Tumor markers	i4000377	i4000379
+FADS	rs174547	rs498793
+Parkinson's disease	rs11564187	rs364897
+Age-related macular degeneration	rs1065489	rs10490924
+Diabetes	rs7903146	rs1111875
+ADIPOQ	rs1063537	rs7627128
+Mitochondrial dysfunction	rs104894705	rs1104739
+Genetic factors affecting intestinal permeability	rs2305764	rs2834167
+Thyroid hormones	rs1382879	rs12885300
+Genes associated with kidney dysfunction	rs28939695	rs3114018
+Vitamin D	rs61495246	rs1562902
+Vitamin C	rs33972313	rs10063949
+Vitamin E	rs2108622	rs2108622
+Vitamin B12	rs1801239	rs11254363
+Vitamin B6	rs1780324	rs4654748
+Vitamin B1	rs1983546	rs1042449
+Vitamin B2	rs10797894	rs909529
+Magnesium-Calcium	rs11144085	rs9869969
+Vitamin K	rs2108622	rs9934438
+Methylation cycle	rs1808593	rs2070676
+ALDOB	i5008215	rs76917243
+CFTR	rs756665	rs34376865
+MAOA	rs796065312	rs3810709
+MAOB	rs3027438	rs9887047
+SUOX	rs773125	rs189671778
+AOC1	rs76036237	rs12539
+HNMT	rs200213699	rs1455158
+HDC	rs2073440	rs860526
